@@ -1,2 +1,2 @@
 # bookbot
-projects
+Bookbot is my first project
